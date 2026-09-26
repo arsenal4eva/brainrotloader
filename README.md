@@ -17,6 +17,10 @@ git clone https://github.com/arsenal4eva/brainrotloader \
 cd brainrotloader \
 make run
 
+Prerequisites:
+
+Qemu
+
 
 
 
