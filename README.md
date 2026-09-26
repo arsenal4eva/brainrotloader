@@ -9,6 +9,14 @@ Total size 512 bytes, standard bootloader size.\
 Written all in assembly
 
 
+# How to use
+
+Go to terminal
+
+git clone https://github.com/arsenal4eva/brainrotloader \
+cd brainrotloader \
+make run
+
 
 
 
